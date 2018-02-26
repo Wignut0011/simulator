@@ -27,7 +27,7 @@ bool UVSim_Interpreter::Input(int input) {
 
 		//if (Identify() == false) {
 		//	throw runtime_error(" ");
-		//}
+		////}
 
 		// Put here by abinadi swapp
 	//if (CheckInstrunction(input)) {
