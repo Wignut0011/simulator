@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\abina\desktop\uvsim\compileduvsim\uvsim\uvsim\main.cpp(54): warning C4101: 'ex': unreferenced local variable
+  UVSim_Interpreter.cpp
+  Generating Code...
+  uvSim.vcxproj -> C:\Users\abina\Desktop\uvsim\compiledUvSim\uvSim\Debug\uvSim.exe
+  uvSim.vcxproj -> C:\Users\abina\Desktop\uvsim\compiledUvSim\uvSim\Debug\uvSim.pdb (Partial PDB)
