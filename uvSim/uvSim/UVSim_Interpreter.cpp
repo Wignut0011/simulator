@@ -63,7 +63,7 @@ bool UVSim_Interpreter::RunInstruction() {
 		// WRITE
 	case 11:// Branch out to CPU
 			//cout << "Write to location " << operand << endl;
-			cout << memory[operand];
+			cout << "Contents at " << operand << ": " << memory[operand];
 		break;
 
 		// LOAD
